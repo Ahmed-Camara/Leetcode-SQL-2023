@@ -1,8 +1,6 @@
-# __Leetcode SQL 2023__ 😸🐱🐈
+# __Leetcode SQL 2023__
 
-## __Happy New Year!__ 🎆
-
-Hello __2023__! ✨
+PRACTICE PROBLEMS __2023__! ✨
 
 ## __Daily updates__ 📊
 

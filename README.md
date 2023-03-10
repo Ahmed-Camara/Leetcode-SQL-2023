@@ -10,6 +10,30 @@ PRACTICE PROBLEMS __2023__! ✨
 🏆: Accomplished 
 -->
 
+
+<!-- March -->
+
+<details>
+<summary><b>March 📈</b></summary>
+
+#### [February LeetCoding Challenge](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/tree/main/February)
+
+| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
+|-----|-----------|------|-----|-----------|------|-----|-----------|------|
+| 1 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | ✅ | 2 | [443. String Compression](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day2StringCompression.cpp) | ✅ | 3 | [28. Find the Index of the First Occurrence in a String](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day3FindTheIndexOfTheFirstOccurrenceInAString.cpp) | ✅ |
+| 4 | [2444. Count Subarrays With Fixed Bounds](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day4CountSubarraysWithFixedBounds.cpp) | ✅ | 5 | [1345. Jump Game IV](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day5JumpGameIV.cpp) | ✅ | 6 | [1539. Kth Missing Positive Number](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day6KthMissingPositiveNumber.cpp) | ✅ |
+| 7 | [2187. Minimum Time to Complete Trips](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day7MinimumTimeToCompleteTrips.cpp) | ✅ | 8 | [875. Koko Eating Bananas](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day8KokoEatingBananas.cpp) | ✅ | 9 | [142. Linked List Cycle II](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day9LinkedListCycleII.cpp) | ✅ |
+| 10 | [382. Linked List Random Node](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day10LinkedListRandomNode.cpp) | ✅ | 11 | | | 12 | | |
+| 13 | | | 14 | | | 15 | | |
+| 16 | | | 17 | | | 18 | | |
+| 19 | | | 20 | | | 21 | | |
+| 22 | | | 23 | | | 24 | | |
+| 25 | | | 26 | | | 27 | | |
+| 28 | | | 29 | | | 30 | | |
+| 31 | | |
+</details>
+
+
 <!-- March -->
 
 <details>

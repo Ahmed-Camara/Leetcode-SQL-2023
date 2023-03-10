@@ -14,13 +14,13 @@ PRACTICE PROBLEMS __2023__! ✨
 <!-- March -->
 
 <details>
-<summary><b>March 📈</b></summary>
+<summary><b>February 📈</b></summary>
 
 #### [February LeetCoding Challenge](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/tree/main/February)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [175. Combine Two Tables](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Combine_Two_Tables.sql) | ✅ | 2 | [443. String Compression](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day2StringCompression.cpp) | ✅ | 3 | [28. Find the Index of the First Occurrence in a String](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day3FindTheIndexOfTheFirstOccurrenceInAString.cpp) | ✅ |
+| 1 | [175. Combine Two Tables](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Combine_Two_Tables.sql) | ✅ | 2 | [181. Employees Earning More Than Their Managers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day2StringCompression.cpp) | ✅ | 3 | [28. Find the Index of the First Occurrence in a String](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day3FindTheIndexOfTheFirstOccurrenceInAString.cpp) | ✅ |
 | 4 | [2444. Count Subarrays With Fixed Bounds](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day4CountSubarraysWithFixedBounds.cpp) | ✅ | 5 | [1345. Jump Game IV](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day5JumpGameIV.cpp) | ✅ | 6 | [1539. Kth Missing Positive Number](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day6KthMissingPositiveNumber.cpp) | ✅ |
 | 7 | [2187. Minimum Time to Complete Trips](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day7MinimumTimeToCompleteTrips.cpp) | ✅ | 8 | [875. Koko Eating Bananas](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day8KokoEatingBananas.cpp) | ✅ | 9 | [142. Linked List Cycle II](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day9LinkedListCycleII.cpp) | ✅ |
 | 10 | [382. Linked List Random Node](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day10LinkedListRandomNode.cpp) | ✅ | 11 | | | 12 | | |

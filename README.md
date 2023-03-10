@@ -226,18 +226,4 @@ PRACTICE PROBLEMS __2023__! ✨
 | 31 | | |
 </details>
 
-## __Solution posts__ 📝
-
-During this challenge, I've made some posts on Leetcode with detailed explanations for my solutions. Feel free to leave a comment if you see any room for improvement, I'll greatly appreciate it.
-
-- [✅ The cleanliness of my code has been improved after 1 year](https://leetcode.com/problems/detect-capital/solutions/2988725/the-cleanliness-of-my-code-has-been-improved-after-1-year/)
-- [✅ O(NlogN) time and O(1) space C++ solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/3000727/onlogn-time-and-o1-space-c-solution/)
-- [✅ C++ solution using Recursive Depth First Search](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/solutions/3033810/c-solution-using-recursive-depth-first-search/)
-- [✅ From Brute Force to Sliding Window solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3147835/from-brute-force-to-sliding-window-solution/)
-- [✅ O(1) Time and Space Complexity Solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/solutions/3178423/o-1-time-and-space-complexity-solution/)
-
-<p align="center">
-    <img src="images/AppBreweryWallpaper.png" width=90%><br>
-    <i>Wallpapers from <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2023</a> by <a href="https://appbrewery.com/">The App Brewery</a>, 2023</i>
-</p>
 

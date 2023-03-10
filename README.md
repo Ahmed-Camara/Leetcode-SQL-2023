@@ -12,48 +12,6 @@ Hello __2023__! ✨
 🏆: Accomplished 
 -->
 
-<!-- January -->
-
-<details>
-<summary><b>January 🏆</b></summary>
-    
-#### [January LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January)
-| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
-|-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | [944. Delete Columns to Make Sorted](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day3DeleteColumnsToMakeSorted.cpp) | ✅ |
-| 4 | [2244. Minimum Rounds to Complete All Tasks](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day4MinimumRoundsToCompleteAllTasks.cpp) | ✅ | 5 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day5MinimumNumberOfArrowsToBurstBalloons.cpp) | ✅ | 6 | [1833. Maximum Ice Cream Bars](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day6MaximumIceCreamBars.cpp) | ✅ |
-| 7 | [134. Gas Station](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day7GasStation.cpp) | ✅ | 8 | [149. Max Points on a Line](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day8MaxPointsOnALine.cpp) | ✅ | 9 | [144. Binary Tree Preorder Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day9BinaryTreePreorderTraversal.cpp) | ✅ |
-| 10 | [100. Same Tree](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day10SameTree.cpp) | ✅ | 11 | [1443. Minimum Time to Collect All Apples in a Tree](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day11MinimumTimeToCollectAllApplesInATree.cpp) | ✅ | 12 | [1519. Number of Nodes in the Sub-Tree With the Same Label](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day12NumberOfNodesInTheSubTreeWithTheSameLabel.cpp) | ✅ |
-| 13 | [2246. Longest Path With Different Adjacent Characters](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day13LongestPathWithDifferentAdjacentCharacters.cpp) | ✅ | 14 | [1061. Lexicographically Smallest Equivalent String](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day14LexicographicallySmallestEquivalentString.cpp) | ✅ | 15 | [2421. Number of Good Paths](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day15NumberOfGoodPaths.cpp) | ✅ |
-| 16 | [57. Insert Interval](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day16InsertInterval.cpp) | ✅ | 17 | [926. Flip String to Monotone Increasing](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day17FlipStringToMonotoneIncreasing.cpp) | ✅ | 18 | [918. Maximum Sum Circular Subarray](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day18MaximumSumCircularSubarray.cpp) | ✅ |
-| 19 | [974. Subarray Sums Divisible by K](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day19SubarraySumsDivisibleByK.cpp) | ✅ | 20 | [491. Non-decreasing Subsequences](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day20NonDecreasingSubsequences.cpp) | ✅ | 21 | [93. Restore IP Addresses](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day21RestoreIPAddresses.cpp) | ✅ |
-| 22 | [131. Palindrome Partitioning](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day22PalindromePartitioning.cpp) | ✅ | 23 | [997. Find the Town Judge](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day23FindTheTownJudge.cpp) | ✅ | 24 | [909. Snakes and Ladders](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day24SnakesAndLadders.cpp) | ✅ |
-| 25 | [2359. Find Closest Node to Given Two Nodes](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day25FindClosestNodeToGivenTwoNodes.cpp) | ✅ | 26 | [787. Cheapest Flights Within K Stops](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day26CheapestFlightsWithinKStops.cpp) | ✅ | 27 | [472. Concatenated Words](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day27ConcatenatedWords.cpp) | ✅ |
-| 28 | [352. Data Stream as Disjoint Intervals](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day28DataStreamAsDisjointIntervals.cpp) | ✅ | 29 | [460. LFU Cache](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day29LFUCache.cpp) | ✅ | 30 | [1137. N-th Tribonacci Number](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day30NthTribonacciNumber.cpp) | ✅ |
-| 31 | [1626. Best Team With No Conflicts](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day31BestTeamWithNoConflicts.cpp) | ✅ |
-</details>
-
-<!-- February -->
-
-<details>
-<summary><b>February 🏆</b></summary>
-
-#### [February LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February)
-
-| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
-|-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | [953. Verifying an Alien Dictionary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day2VerifyingAnAlienDictionary.cpp) | ✅ | 3 | [6. Zigzag Conversion](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day3ZigzagConversion.cpp) | ✅ |
-| 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | [438. Find All Anagrams in a String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day5FindAllAnagramsInAString.cpp) | ✅ | 6 | [1470. Shuffle the Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day6ShuffleTheArray.cpp) | ✅ |
-| 7 | [904. Fruit Into Baskets](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day7FruitIntoBaskets.cpp) | ✅ | 8 | [45. Jump Game II](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day8JumpGameII.cpp) | ✅ | 9 | [2306. Naming a Company](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day9NamingACompany.cpp) | ✅ |
-| 10 | [1162. As Far from Land as Possible](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day10AsFarFromLandAsPossible.cpp) | ✅ | 11 | [1129. Shortest Path with Alternating Colors](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day11ShortestPathWithAlternatingColors.cpp) | ✅ | 12 | [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day12MinimumFuelCostToReportToTheCapital.cpp) | ✅ |
-| 13 | [1523. Count Odd Numbers in an Interval Range](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day13CountOddNumbersInAnIntervalRange.cpp) | ✅ | 14 | [67. Add Binary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day14AddBinary.cpp) | ✅ | 15 | [989. Add to Array-Form of Integer](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day15AddToArrayFormOfInteger.cpp) | ✅ |
-| 16 | [104. Maximum Depth of Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day16MaximumDepthOfBinaryTree.cpp) | ✅ | 17 | [783. Minimum Distance Between BST Nodes](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day17MinimumDistanceBetweenBSTNodes.cpp) | ✅ | 18 | [226. Invert Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day18InvertBinaryTree.cpp) | ✅ |
-| 19 | [103. Binary Tree Zigzag Level Order Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day19BinaryTreeZigzagLevelOrderTraversal.cpp) | ✅ | 20 | [35. Search Insert Position](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day20SearchInsertPosition.cpp) | ✅ | 21 | [540. Single Element in a Sorted Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day21SingleElementInASortedArray.cpp) | ✅ |
-| 22 | [1011. Capacity To Ship Packages Within D Days](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day22CapacityToShipPackagesWithinDDays.cpp) | ✅ | 23 | [502. IPO](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day23IPO.cpp) | ✅ | 24 | [1675. Minimize Deviation in Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day24MinimizeDeviationInArray.cpp) | ✅ |
-| 25 | [121. Best Time to Buy and Sell Stock](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day25BestTimeToBuyAndSellStock.cpp) | ✅ | 26 | [72. Edit Distance](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day26EditDistance.cpp) | ✅ | 27 | [427. Construct Quad Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day27ConstructQuadTree.cpp) | ✅ |
-| 28 | [652. Find Duplicate Subtrees](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day28FindDuplicateSubtrees.cpp) | ✅ |
-</details>
-
 <!-- March -->
 
 <details>

@@ -23,7 +23,7 @@ PRACTICE PROBLEMS __2023__! ✨
 | 1 | [175. Combine Two Tables](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Combine_Two_Tables.sql) | ✅ | 2 | [182. Duplicate Emails](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Duplicate_Emails.sql) | ✅ | 3 | [183. Customers Who Never Order](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Customers_Who_Never_Order.sql) | ✅ |
 | 4 | [196. Delete Duplicate Emails](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Delete_Duplicate_Emails.sql) | ✅ | 5 | [197. Rising Temperature](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/RisingTemperature.sql) | ✅ | 6 | [584. Find Customer Referee](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/FindCustomerReferee.sql) | ✅ |
 | 7 | [586. Customer Placing the Largest Number of Orders](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Customer%20PlacingLargestNumberOfOrders.sql) | ✅ | 8 | [595. Big Countries](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/BigCountries.sql) | ✅ | 9 | [596. Classes More Than 5 Students](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/February/Classes_More_Than_5_Students.sql) | ✅ |
-| 10 | [382. Linked List Random Node](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day10LinkedListRandomNode.cpp) | ✅ | 11 | | | 12 | | |
+| 10 | | ✅ | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
 | 16 | | | 17 | | | 18 | | |
 | 19 | | | 20 | | | 21 | | |

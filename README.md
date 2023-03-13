@@ -41,6 +41,7 @@ PRACTICE PROBLEMS __2023__! ✨
 
 #### [March LeetCoding Challenge](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/tree/main/March)
 
+
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [1965. Employees With Missing Information](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/Employees%20With_Missing_Information.sql) | ✅ | 2 | [1890. The Latest Login in 2020](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/The_Latest_Login_in_2020.sql) | ✅ | 3 | [1873. Calculate Special Bonus](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/CalculateSpecialBonus.sql) | ✅ |

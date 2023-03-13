@@ -1,4 +1,4 @@
-/* Write your PL/SQL query statement below Calculate :  Special Bonus*/
+/* Write your PL/SQL query statement below*/
 select employee_id,
     case
         when mod(employee_id,2) = 0

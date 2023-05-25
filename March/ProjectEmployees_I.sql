@@ -65,3 +65,5 @@ Output:
 +-------------+---------------+
 Explanation: The average experience years for the first project is (3 + 2 + 1) / 3 = 2.00 and for the second project is (3 + 2) / 2 = 2.50
 */
+
+SELECT p.project_id, ROUND(SUM(experience_years)/ COUNT(e.employee_id), 2) AS average_years FROM Project AS p JOIN Employee AS e ON p.employee_id = e.employee_id GROUP BY p.project_id;

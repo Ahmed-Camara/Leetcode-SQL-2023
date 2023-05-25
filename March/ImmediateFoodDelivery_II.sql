@@ -53,3 +53,9 @@ The customer id 3 has a first order with delivery id 5 and it is scheduled.
 The customer id 4 has a first order with delivery id 7 and it is immediate.
 Hence, half the customers have immediate first orders.
 */
+
+SELECT ROUND(AVG(CASE WHEN T1.ORDER_DATE = T1.CUSTOMER_PREF_DELIVERY_DATE THEN 1 ELSE 0 END) * 100, 2) AS IMMEDIATE_PERCENTAGE 
+FROM DELIVERY T1
+WHERE (CUSTOMER_ID, ORDER_DATE) IN (SELECT CUSTOMER_ID, MIN(ORDER_DATE)
+                    FROM DELIVERY T2
+                    GROUP BY CUSTOMER_ID);

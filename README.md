@@ -50,7 +50,7 @@ PRACTICE PROBLEMS __2023__! ✨
 10 | [176. Second Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SecondHighestSalary.sql) | ✅ | 11 | [177. Nth Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/NthHighestSalary.sql) | ✅ | 12 | [178. Rank Scores](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/RankScores.sql) | ✅ |
 13 | [128. Department Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentHighestSalaries.sql) | ✅ | 14 | [180. Consecutive Numbers](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ConsecutiveNumber.sql) | ✅ | 15 | [185. Department Top Three Salaries](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentTopThreeSalaries.sql) | ✅ | 
 16 | [619. Biggest Single Number](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/BiggestSingleNumber.sql) | ✅ | 17 | [620. Not Boring Movies](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/NotBoringMovies.sql) | ✅ | 
-| 100 | | | 17 | | | 18 | | |
+| 100 | | | 129 | | | 18 | | |
 | 19 | | | 20 | | | 21 | | |
 | 22 | | | 23 | | | 24 | | |
 | 25 | | | 26 | | | 27 | | |

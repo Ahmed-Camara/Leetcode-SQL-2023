@@ -45,3 +45,11 @@ Output:
 | 2019-01  | DE      | 1           | 1              | 2000               | 2000                  |
 +----------+---------+-------------+----------------+--------------------+-----------------------+
 */
+
+SELECT to_char(trans_date, 'YYYY-MM') as month, 
+    country, 
+    count(id) as trans_count, 
+    sum(CASE WHEN state='approved' then 1 ELSE 0 end) as approved_count,
+    sum(amount) as trans_total_amount,
+    sum(CASE WHEN state='approved' then amount else 0 end) as approved_total_amount
+FROM Transactions GROUP BY to_char(trans_date, 'YYYY-MM'), country;

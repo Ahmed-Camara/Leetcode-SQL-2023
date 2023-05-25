@@ -51,11 +51,7 @@ PRACTICE PROBLEMS __2023__! ✨
 13 | [128. Department Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentHighestSalaries.sql) | ✅ | 14 | [180. Consecutive Numbers](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ConsecutiveNumber.sql) | ✅ | 15 | [185. Department Top Three Salaries](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentTopThreeSalaries.sql) | ✅ | 
 16 | [619. Biggest Single Number](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/BiggestSingleNumber.sql) | ✅ | 17 | [620. Not Boring Movies](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/NotBoringMovies.sql) | ✅ | 18 | [626. Exchance Seats](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ExchangeSeats.sql) | ✅ | 
 19 | [627. Swap Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SwapSalary.sql) | ✅ | 20 | [1045. Customers Who Bought All Products](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/CustomersWhoBoughtAllProducts.sql) | ✅ | 21 | [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/Actors_DirectorsCooperatedAtLeastThreeTimes.sql) | ✅ | 
-22 | [1068. Product Sales Analysis I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductSalesAnalysis_I.sql) | ✅ | 23 | [1070. Product Sales Analysis III] (https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductSalesAnalysis_III.sql) | |
-| 242 | | | 243 | | | 244 | | |
-| 245 | | | 264 | | | 247 | | |
-| 248 | | | 429 | | | 340 | | |
-| 341 | | |
+22 | [1068. Product Sales Analysis I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductSalesAnalysis_I.sql) | ✅ | 
 </details>
 
 <!-- April -->

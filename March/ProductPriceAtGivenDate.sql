@@ -44,3 +44,21 @@ Output:
 | 3          | 10    |
 +------------+-------+
 */
+
+with m as (
+    select product_id, max(change_date) change_date
+    from Products
+    where change_date <= '2019-08-16'
+    group by product_id
+),
+     pre as (select p.product_id, new_price price
+             from Products p
+                      left join m on p.product_id = m.product_id and p.change_date = m.change_date
+             where p.product_id = m.product_id
+               and p.change_date = m.change_date)
+select *
+from pre
+union
+select product_id, 10
+from Products
+where product_id not in (select product_id from pre)

@@ -61,20 +61,20 @@ PRACTICE PROBLEMS __2023__! ✨
 <details>
 <summary><b>April 🗓</b></summary>
 
-#### [April LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April)
+#### [April LeetCoding Challenge](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/tree/main/April)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
-| 4 | | | 5 | | | 6 | | |
-| 7 | | | 8 | | | 9 | | |
-| 10 | | | 11 | | | 12 | | |
-| 13 | | | 14 | | | 15 | | |
-| 16 | | | 17 | | | 18 | | |
-| 19 | | | 20 | | | 21 | | |
-| 22 | | | 23 | | | 24 | | |
-| 25 | | | 26 | | | 27 | | |
-| 28 | | | 29 | | | 30 | | |
+| 1 | [550. Game Play Analysis IV](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/April/GamePlayAnalysis_IV.sql) | ✅ | 2 | [](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/The_Latest_Login_in_2020.sql) | ✅ | 3 | [](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/CalculateSpecialBonus.sql) | ✅ |
+| 4 | [](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SubtasksThatDidNotExecute.sql) | ✅ | 5 | [1667. Fix Names in a Table](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/FixNames.sql) | ✅ | 6 | [1587. Bank Account Summary II](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/BankAccountSummary%202.sql) | ✅ |
+| 7 | [1527. Patients With a Condition](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/PatientsWithCondition.sql) | ✅ | 8 | [1148. Article Views I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ArticleViews_I.sql) | ✅ | 9 | [577. Employee Bonus](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/Employee_Bonus.sql) | ✅ |
+10 | [176. Second Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SecondHighestSalary.sql) | ✅ | 11 | [177. Nth Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/NthHighestSalary.sql) | ✅ | 12 | [178. Rank Scores](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/RankScores.sql) | ✅ |
+13 | [128. Department Highest Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentHighestSalaries.sql) | ✅ | 14 | [180. Consecutive Numbers](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ConsecutiveNumber.sql) | ✅ | 15 | [185. Department Top Three Salaries](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/DepartmentTopThreeSalaries.sql) | ✅ | 
+16 | [619. Biggest Single Number](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/BiggestSingleNumber.sql) | ✅ | 17 | [620. Not Boring Movies](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/NotBoringMovies.sql) | ✅ | 18 | [626. Exchance Seats](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ExchangeSeats.sql) | ✅ | 
+19 | [627. Swap Salary](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SwapSalary.sql) | ✅ | 20 | [1045. Customers Who Bought All Products](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/CustomersWhoBoughtAllProducts.sql) | ✅ | 21 | [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/Actors_DirectorsCooperatedAtLeastThreeTimes.sql) | ✅ | 
+22 | [1068. Product Sales Analysis I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductSalesAnalysis_I.sql) | ✅ | 23 | [1070. Product Sales Analysis III](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductSalesAnalysis_III.sql) | ✅ | 24 | [1075. Project Employees I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProjectEmployees_I.sql) | ✅ |
+25 | [1084. Sales Analysis III](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/SalesAnalysis_III.sql) | ✅ | 26 | [1158. Market Analysis I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/MarketAnalysis_I.sql)| ✅ | 27 | [1164. Product Price at a Given Date](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ProductPriceAtGivenDate.sql) | ✅ | 
+28 | [1174. Immediate Food Delivery II](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ImmediateFoodDelivery_II.sql) | ✅ | 29 | [1179. Reformat Department Table](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/ReformatDepartmentTable.sql) | ✅ | 30 | [1193. Monthly Transactions I](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/blob/main/March/MonthlyTransactions_I.sql) | ✅ |
 </details>
 
 <!-- May -->

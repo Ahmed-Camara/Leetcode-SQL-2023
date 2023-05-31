@@ -59,7 +59,7 @@ PRACTICE PROBLEMS __2023__! ✨
 <!-- April -->
 
 <details>
-<summary><b>April 🗓</b></summary>
+<summary><b>April 📈</b></summary>
 
 #### [April LeetCoding Challenge](https://github.com/Ahmed-Camara/Leetcode-SQL-2023/tree/main/April)
 

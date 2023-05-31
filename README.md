@@ -79,7 +79,7 @@ PRACTICE PROBLEMS __2023__! ✨
 <!-- May -->
 
 <details>
-<summary><b>May 🗓</b></summary>
+<summary><b>May 📈</b></summary>
 
 #### [May LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/5.%20May)
 
